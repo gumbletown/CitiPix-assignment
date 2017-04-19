@@ -87,40 +87,25 @@ header {
   font-weight: normal
 }
 
+.container {
+ 
+
+}
+
 #city-type {
   color: #6b6b6c;
-  font-size: 38px;
+  font-size: 30px;
   background: #fff;
   border: 1px solid #111;
   padding: 0px 30px;
   display: inline-block;
-  width: 680px;
+  width: 360px;
   margin-right: 24px;
   font-family: helvetica, arial, sans-serif;
-  height: 72px;
+  height: 54px;
   line-height: 74px;
   vertical-align: middle;
   box-shadow: #111 0 0 20px;
-}
-#submit-btn {
-  background: #ffe500;
-  color: #000;
-  font-size: 38px;
-  font-weight: bold;
-  text-transform: uppercase;
-  border: 1px solid #111;
-  text-align: center;
-  display: inline-block;
-  width: 250px;
-  height: 72px;
-  line-height: 74px;
-  vertical-align: middle;
-  box-shadow: #111 0 0 50px;
-  font-family: helvetica, arial, sans-serif;
-  cursor: pointer;
-}
-#submit-btn:hover {
-  background: #fff600;
 }
 
 .nyc {
